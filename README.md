@@ -1,2 +1,2 @@
 # FullStackOpen
-Repositório onde estará os exercícios do curso FullStackOpen
+Repository holding exercises from the course FullStackOpen
